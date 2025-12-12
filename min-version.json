@@ -1,6 +1,6 @@
 {
-  "minVersion": "1.0.5",
+  "minVersion": "1.0.20",
   "message": "This version of Clayzo is no longer supported. Please update to continue using the app.",
-  "forceUpdate": false
+  "forceUpdate": true
 }
 
